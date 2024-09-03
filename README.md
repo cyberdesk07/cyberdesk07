@@ -1,6 +1,3 @@
-Here's a draft for your README file on GitHub as a DevOps Engineer:
-
----
 
 # Hi there, I'm Priyanshu sharma 👋
 
@@ -32,8 +29,8 @@ Welcome to my GitHub! I'm a passionate DevOps Engineer with a strong focus on au
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: https://www.linkedin.com/in/priyanshu-sharma-aa32a1208/
+- Email: priyanshu1234sharma@gmail.com
 
 ## ⚡ Fun Fact
 
